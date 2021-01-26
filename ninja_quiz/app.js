@@ -22,9 +22,6 @@ form.addEventListener('submit', e => {
 
 });
 
-// window object (the global object)
-
-// console.log(window);
 
 // console.log('hello');
 // window.console.log('hello');
